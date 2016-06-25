@@ -1,0 +1,15 @@
+{
+	"Tasks": [
+		"default",
+		"publish-github"
+	],
+  "Os": "darwin,linux,windows",
+	"PackageVersion": "0.0.1",
+	"PrereleaseInfo": "alpha",
+  "TaskSettings": {
+		"publish-github": {
+			"repository": "gop0f"
+		}
+	},
+  "ConfigVersion": "0.9"
+}
